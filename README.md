@@ -1,9 +1,21 @@
-## Olá! Sou o Luiz Felipe 👋
+## Olá Mundi! Sou o Luiz Felipe 👋
 
-<div style="display: inline_block"><br>
-- 🔭 Atualmente trabalho como Analista de Suporte Técnico ao Cliente (SaaS)<br> 
-- 📚 Estou estudando desenvolvimento Front-end<br><br> 
-  
+
+🔭 Atualmente trabalho como Analista de Suporte Técnico ao Cliente (SaaS)<br><br> 
+📚 Estou estudando desenvolvimento Front-end<br><br>
+🔎 Busco pela minha primeira oportunidade na área de tecnologia. Meu sonho é trabalhar como desenvolvedor e chegar a cargos de liderança, podendo ajudar outros jovens desenvolvedores assim como venho sendo ajudado hoje em dia, e para isso venho me empenhando bastante nos estudos<br><br>
+
+<details>
+  <summary>👨🏾‍💻 Mais sobre mim</summary>
+
+  - 💬 Atualmente resido no Brasil. Possuo inglês intermediário (B1) e Mandarim básico. Para ambos sigo me aprimorando também. Tenho experiência como Analista de Suporte técnico e Sucesso do Cliente para um SaaS de controle de qualidade m fábricas de rações, utilizando a tecnologia NIRS, na qual eu também faço as curvas de calibração.
+    
+  - 📈 Estou estudando desenvolvimento Front-end na Alura e Escola DNC. Ainda na Alura, também faço cursos de UX/Design e Inovação e Gestão. Em breve pretendo inciar uma pós-graduação também na área de tecnologia.
+
+  - ⚡ No meu tempo livre gosto de criar campanhas de RPG, fazer aulas de mandarim no Duolingo e práticar esportes como patinação e volei.
+</details>
+
+<div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
