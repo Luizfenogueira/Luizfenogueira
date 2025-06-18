@@ -8,7 +8,7 @@
 <details>
   <summary>👨🏾‍💻 Mais sobre mim</summary>
 
-  - 💬 Atualmente resido no Brasil. Possuo inglês intermediário (B1) e Mandarim básico. Para ambos sigo me aprimorando também. Tenho experiência como Analista de Suporte técnico e Sucesso do Cliente para um SaaS de controle de qualidade m fábricas de rações, utilizando a tecnologia NIRS, na qual eu também faço as curvas de calibração.
+  - 💬 Atualmente resido no Brasil. Possuo inglês intermediário (B1) e Mandarim básico. Para ambos sigo me aprimorando também. Tenho experiência como Analista de Suporte técnico e Sucesso do Cliente para um SaaS de controle de qualidade em fábricas de rações para animais, que utiliza a tecnologia NIRS, na qual eu também faço as curvas de calibração. Neste trabalho habildiades de comunicação, escuta ativa, pensamento crítico, criatividade e proatividade são essenciais.
     
   - 📈 Estou estudando desenvolvimento Front-end na Alura e Escola DNC. Ainda na Alura, também faço cursos de UX/Design e Inovação e Gestão. Em breve pretendo inciar uma pós-graduação também na área de tecnologia.
 
