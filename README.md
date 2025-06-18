@@ -1,4 +1,4 @@
-## Olá Mundi! Sou o Luiz Felipe 👋
+## Olá Mundo! Sou o Luiz Felipe 👋
 
 
 🔭 Atualmente trabalho como Analista de Suporte Técnico ao Cliente (SaaS)<br><br> 
